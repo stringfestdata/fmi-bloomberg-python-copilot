@@ -1,2 +1,1 @@
-# fmi-bloomberg-python-copilot
-Bloomberg FMI Python Copilot presentation
+FMI Python Copilot presentation
